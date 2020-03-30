@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Sun Mar 29 23:27:02 2020
+# Process ID: 716
+# Current directory: B:/Projects/Vivado/Lab_2/tmp/Lab_2.runs/synth_1
+# Command line: vivado.exe -log mainframe.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mainframe.tcl
+# Log file: B:/Projects/Vivado/Lab_2/tmp/Lab_2.runs/synth_1/mainframe.vds
+# Journal file: B:/Projects/Vivado/Lab_2/tmp/Lab_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mainframe.tcl -notrace
